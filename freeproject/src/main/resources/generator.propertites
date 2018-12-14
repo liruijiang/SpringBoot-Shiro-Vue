@@ -1,0 +1,5 @@
+jdbc.driverLocation=/Users/liruijiang/.m2/repository/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar
+jdbc.driverClass=com.mysql.jdbc.Driver
+jdbc.connectionURL=jdbc:mysql://10.37.129.4:3306/example?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+jdbc.userId=root
+jdbc.password=123456
