@@ -1,2 +1,2 @@
 # Spring Boot-Shiro-Vue
-Spring BootShiroVue,webpack,mysql,generator
+用到的技术：Spring Boot,Shiro,Vue,webpack,mysql,generator
